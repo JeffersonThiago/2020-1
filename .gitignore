@@ -1,6 +1,15 @@
 # Created by https://www.toptal.com/developers/gitignore/api/django
 # Edit at https://www.toptal.com/developers/gitignore?templates=django
 
+.vimrc
+.pythonstartup.py
+.profile
+.bashrc
+.bash_history
+.local/bin
+.ssh/
+.virtualenvs/
+
 ### Django ###
 *.log
 *.pot
